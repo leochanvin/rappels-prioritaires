@@ -1,0 +1,550 @@
+[
+  {
+    "id": "P01",
+    "prenom": "Martine",
+    "nom": "Delorme",
+    "age": 62,
+    "telephone": "06 39 98 01 03",
+    "cancer": "Sein",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": "2026-10-01",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 8
+    },
+    "symptomes": [
+      {
+        "libelle": "Fatigue",
+        "intensite": 3,
+        "date": "2026-10-20"
+      },
+      {
+        "libelle": "Syndrome main-pied",
+        "intensite": 2,
+        "date": "2026-10-19"
+      }
+    ],
+    "notes": "Vit seule depuis le décès de son mari. Sa fille Claire (06 39 98 90 01) passe le week-end. Dit qu'elle « oublie » ses comprimés le soir."
+  },
+  {
+    "id": "P02",
+    "prenom": "Sylvie",
+    "nom": "Rambert",
+    "age": 55,
+    "telephone": "06 39 98 02 06",
+    "cancer": "Côlon",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": "2026-10-18",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 14
+    },
+    "symptomes": [
+      {
+        "libelle": "Nausées",
+        "intensite": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "notes": "Très motivée, tient un carnet. Reprend le travail à mi-temps en novembre."
+  },
+  {
+    "id": "P03",
+    "prenom": "Nadia",
+    "nom": "Benali",
+    "age": 47,
+    "telephone": "06 39 98 03 09",
+    "cancer": "Sein",
+    "traitement": "Hormonothérapie (létrozole)",
+    "dernier_appel": "2026-09-10",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 3
+    },
+    "symptomes": [
+      {
+        "libelle": "Douleurs articulaires",
+        "intensite": 2,
+        "date": "2026-10-15"
+      },
+      {
+        "libelle": "Moral bas",
+        "intensite": 2,
+        "date": "2026-10-15"
+      }
+    ],
+    "notes": "Parle d'arrêter le traitement à cause des douleurs. En instance de divorce, situation financière tendue."
+  },
+  {
+    "id": "P04",
+    "prenom": "Françoise",
+    "nom": "Le Goff",
+    "age": 71,
+    "telephone": "06 39 98 04 12",
+    "cancer": "Poumon",
+    "traitement": "Thérapie ciblée (osimertinib)",
+    "dernier_appel": "2026-10-14",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [
+      {
+        "libelle": "Diarrhées",
+        "intensite": 1,
+        "date": "2026-10-20"
+      },
+      {
+        "libelle": "Éruption cutanée",
+        "intensite": 1,
+        "date": "2026-10-18"
+      }
+    ],
+    "notes": "Son mari Jean-Pierre gère les médicaments. Malentendante, préfère qu'on parle à son mari."
+  },
+  {
+    "id": "P05",
+    "prenom": "Isabelle",
+    "nom": "Moreau",
+    "age": 58,
+    "telephone": "06 39 98 05 15",
+    "cancer": "Ovaire",
+    "traitement": "Inhibiteur de PARP (olaparib)",
+    "dernier_appel": "2026-10-08",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 12
+    },
+    "symptomes": [
+      {
+        "libelle": "Fatigue",
+        "intensite": 2,
+        "date": "2026-10-19"
+      },
+      {
+        "libelle": "Essoufflement",
+        "intensite": 2,
+        "date": "2026-10-21"
+      }
+    ],
+    "notes": "Essoufflement nouveau, à surveiller (anémie ?). Prochaine prise de sang le 28/10."
+  },
+  {
+    "id": "P06",
+    "prenom": "Chantal",
+    "nom": "Vasseur",
+    "age": 66,
+    "telephone": "06 39 98 06 18",
+    "cancer": "Sein",
+    "traitement": "Hormonothérapie (anastrozole)",
+    "dernier_appel": "2026-10-20",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [],
+    "notes": "RAS. Très à l'aise avec l'application."
+  },
+  {
+    "id": "P07",
+    "prenom": "Léa",
+    "nom": "Fontaine",
+    "age": 39,
+    "telephone": "06 39 98 07 21",
+    "cancer": "Sein",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": null,
+    "observance_7j": null,
+    "symptomes": [],
+    "notes": "Nouvelle patiente, inscrite hier. Pas encore de premier appel. Deux enfants en bas âge."
+  },
+  {
+    "id": "P08",
+    "prenom": "Monique",
+    "nom": "Garnier",
+    "age": 78,
+    "telephone": "06 39 98 08 24",
+    "cancer": "Côlon",
+    "traitement": "Chimiothérapie orale (trifluridine-tipiracil)",
+    "dernier_appel": "2026-09-30",
+    "observance_7j": {
+      "prises_prevues": 10,
+      "prises_faites": 10
+    },
+    "symptomes": [
+      {
+        "libelle": "Perte d'appétit",
+        "intensite": 2,
+        "date": "2026-10-12"
+      }
+    ],
+    "notes": "A perdu 3 kg en un mois. Vit en EHPAD, l'infirmière de l'établissement s'appelle Mme Roux."
+  },
+  {
+    "id": "P09",
+    "prenom": "Sophie",
+    "nom": "Lambert",
+    "age": 51,
+    "telephone": "06 39 98 09 27",
+    "cancer": "Rein",
+    "traitement": "Thérapie ciblée (cabozantinib)",
+    "dernier_appel": "2026-10-16",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 6
+    },
+    "symptomes": [
+      {
+        "libelle": "Hypertension",
+        "intensite": 2,
+        "date": "2026-10-19"
+      }
+    ],
+    "notes": "Tension à 16/9 à la pharmacie. Médecin traitant prévenu."
+  },
+  {
+    "id": "P10",
+    "prenom": "Brigitte",
+    "nom": "Caron",
+    "age": 69,
+    "telephone": "06 39 98 10 30",
+    "cancer": "Sein",
+    "traitement": "Hormonothérapie (tamoxifène)",
+    "dernier_appel": "2026-08-28",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [],
+    "notes": "Ne répond plus au téléphone depuis fin août. Deux messages laissés."
+  },
+  {
+    "id": "P11",
+    "prenom": "Aurélie",
+    "nom": "Petit",
+    "age": 44,
+    "telephone": "06 39 98 11 33",
+    "cancer": "Mélanome",
+    "traitement": "Thérapie ciblée (dabrafénib + tramétinib)",
+    "dernier_appel": "2026-10-19",
+    "observance_7j": {
+      "prises_prevues": 28,
+      "prises_faites": 27
+    },
+    "symptomes": [
+      {
+        "libelle": "Fièvre",
+        "intensite": 1,
+        "date": "2026-10-17"
+      }
+    ],
+    "notes": "Fièvre à 37,9 °C le 17, passée depuis. Fièvre connue avec ce traitement."
+  },
+  {
+    "id": "P12",
+    "prenom": "Catherine",
+    "nom": "Roussel",
+    "age": 60,
+    "telephone": "06 39 98 12 36",
+    "cancer": "Sein",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": "2026-10-19",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 13
+    },
+    "symptomes": [
+      {
+        "libelle": "Fièvre",
+        "intensite": 3,
+        "date": "2026-10-21"
+      },
+      {
+        "libelle": "Frissons",
+        "intensite": 2,
+        "date": "2026-10-21"
+      }
+    ],
+    "notes": "A signalé hier soir dans l'application : « 38,9 °C, je tremble ». Pas encore rappelée."
+  },
+  {
+    "id": "P13",
+    "prenom": "Valérie",
+    "nom": "Mercier",
+    "age": 53,
+    "telephone": "06 39 98 13 39",
+    "cancer": "Estomac",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": "2026-10-11",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 10
+    },
+    "symptomes": [
+      {
+        "libelle": "Nausées",
+        "intensite": 2,
+        "date": "2026-10-18"
+      },
+      {
+        "libelle": "Vomissements",
+        "intensite": 1,
+        "date": "2026-10-18"
+      }
+    ],
+    "notes": "Saute des prises quand elle a des nausées. Antiémétique prescrit mais pas pris."
+  },
+  {
+    "id": "P14",
+    "prenom": "Hélène",
+    "nom": "Dubois",
+    "age": 74,
+    "telephone": "06 39 98 14 42",
+    "cancer": "Myélome",
+    "traitement": "Immunomodulateur (lénalidomide)",
+    "dernier_appel": "2026-10-02",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [
+      {
+        "libelle": "Fatigue",
+        "intensite": 1,
+        "date": "2026-10-10"
+      }
+    ],
+    "notes": "Stable. Son fils médecin suit de près."
+  },
+  {
+    "id": "P15",
+    "prenom": "Karima",
+    "nom": "Haddad",
+    "age": 49,
+    "telephone": "06 39 98 15 45",
+    "cancer": "Sein",
+    "traitement": "Thérapie ciblée (abémaciclib)",
+    "dernier_appel": "2026-10-05",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 11
+    },
+    "symptomes": [
+      {
+        "libelle": "Diarrhées",
+        "intensite": 3,
+        "date": "2026-10-20"
+      }
+    ],
+    "notes": "Six selles par jour depuis deux jours. Elle n'ose pas « déranger »."
+  },
+  {
+    "id": "P16",
+    "prenom": "Patricia",
+    "nom": "Lefèvre",
+    "age": 63,
+    "telephone": "06 39 98 16 48",
+    "cancer": "Poumon",
+    "traitement": "Thérapie ciblée (alectinib)",
+    "dernier_appel": "2026-10-17",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 14
+    },
+    "symptomes": [
+      {
+        "libelle": "Douleurs musculaires",
+        "intensite": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "notes": "Fait de la marche nordique deux fois par semaine."
+  },
+  {
+    "id": "P17",
+    "prenom": "Nathalie",
+    "nom": "Girard",
+    "age": 57,
+    "telephone": "06 39 98 17 51",
+    "cancer": "Côlon",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": "2026-09-25",
+    "observance_7j": null,
+    "symptomes": [],
+    "notes": "N'utilise pas l'application, observance inconnue. Préfère le téléphone."
+  },
+  {
+    "id": "P18",
+    "prenom": "Élodie",
+    "nom": "Marchand",
+    "age": 42,
+    "telephone": "06 39 98 18 54",
+    "cancer": "Sein",
+    "traitement": "Hormonothérapie (tamoxifène)",
+    "dernier_appel": "2026-10-12",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 4
+    },
+    "symptomes": [
+      {
+        "libelle": "Bouffées de chaleur",
+        "intensite": 2,
+        "date": "2026-10-14"
+      },
+      {
+        "libelle": "Moral bas",
+        "intensite": 3,
+        "date": "2026-10-20"
+      }
+    ],
+    "notes": "A écrit : « je n'en peux plus, à quoi bon ». Suivie par une psychologue, Mme Brun."
+  },
+  {
+    "id": "P19",
+    "prenom": "Annie",
+    "nom": "Perrin",
+    "age": 81,
+    "telephone": "06 39 98 19 57",
+    "cancer": "Prostate (proche aidante)",
+    "traitement": "Hormonothérapie (abiratérone) de son mari",
+    "dernier_appel": "2026-10-09",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [],
+    "notes": "Fiche ouverte au nom de l'épouse, qui gère le traitement de son mari Robert. Doublon possible avec une autre fiche."
+  },
+  {
+    "id": "P20",
+    "prenom": "Céline",
+    "nom": "Roche",
+    "age": 46,
+    "telephone": "06 39 98 20 60",
+    "cancer": "Ovaire",
+    "traitement": "Inhibiteur de PARP (niraparib)",
+    "dernier_appel": "2026-10-15",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [
+      {
+        "libelle": "Saignements de nez",
+        "intensite": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "notes": "Plaquettes basses au dernier bilan."
+  },
+  {
+    "id": "P21",
+    "prenom": "Marie",
+    "nom": "Blanchard",
+    "age": 65,
+    "telephone": "06 39 98 21 63",
+    "cancer": "Sein",
+    "traitement": "Hormonothérapie (létrozole)",
+    "dernier_appel": "2026-10-21",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [],
+    "notes": "Appelée hier, tout va bien."
+  },
+  {
+    "id": "P22",
+    "prenom": "Christine",
+    "nom": "Faure",
+    "age": 59,
+    "telephone": "06 39 98 22 66",
+    "cancer": "Rein",
+    "traitement": "Thérapie ciblée (sunitinib)",
+    "dernier_appel": "2026-10-03",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 5
+    },
+    "symptomes": [
+      {
+        "libelle": "Aphtes",
+        "intensite": 2,
+        "date": "2026-10-13"
+      },
+      {
+        "libelle": "Fatigue",
+        "intensite": 2,
+        "date": "2026-10-13"
+      }
+    ],
+    "notes": "Mange difficilement à cause des aphtes."
+  },
+  {
+    "id": "P23",
+    "prenom": "Josiane",
+    "nom": "Renaud",
+    "age": 76,
+    "telephone": "06 39 98 23 69",
+    "cancer": "Côlon",
+    "traitement": "Chimiothérapie orale (capécitabine)",
+    "dernier_appel": "2026-10-13",
+    "observance_7j": {
+      "prises_prevues": 14,
+      "prises_faites": 16
+    },
+    "symptomes": [
+      {
+        "libelle": "Syndrome main-pied",
+        "intensite": 1,
+        "date": "2026-10-19"
+      }
+    ],
+    "notes": "A pris 16 comprimés au lieu de 14 cette semaine : confusion entre deux boîtes ?"
+  },
+  {
+    "id": "P24",
+    "prenom": "Sandrine",
+    "nom": "Colin",
+    "age": 52,
+    "telephone": "06 39 98 24 72",
+    "cancer": "Thyroïde",
+    "traitement": "Thérapie ciblée (lenvatinib)",
+    "dernier_appel": "2026-10-10",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 7
+    },
+    "symptomes": [
+      {
+        "libelle": "Hypertension",
+        "intensite": 1,
+        "date": "2026-10-11"
+      }
+    ],
+    "notes": "Tension bien contrôlée sous traitement."
+  },
+  {
+    "id": "P25",
+    "prenom": "Agnès",
+    "nom": "Vidal",
+    "age": 68,
+    "telephone": "06 39 98 25 75",
+    "cancer": "Leucémie lymphoïde chronique",
+    "traitement": "Thérapie ciblée (ibrutinib)",
+    "dernier_appel": "2026-09-18",
+    "observance_7j": {
+      "prises_prevues": 7,
+      "prises_faites": 6
+    },
+    "symptomes": [
+      {
+        "libelle": "Hématomes",
+        "intensite": 1,
+        "date": "2026-10-05"
+      }
+    ],
+    "notes": "Doit se faire opérer d'une hanche : arrêt du traitement à prévoir avec l'hématologue."
+  }
+]
