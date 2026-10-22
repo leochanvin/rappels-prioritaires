@@ -13,6 +13,16 @@ avec pour chacune un court résumé qui l'aide à préparer son appel.
 Personne ne s'attend à ce que tout soit fini : on regarde surtout comment tu raisonnes.
 Utilise les outils que tu veux, IA comprise.
 
+## Tes questions
+
+Pose toutes les questions que tu veux, à n'importe quel moment.
+Pour les questions métier (qu'est-ce qu'une patiente prioritaire, ce que l'infirmière attend
+du résumé…), une infirmière simulée par une IA te répond : Léo lui transmet tes questions.
+
+## Pour finir
+
+Si on a le temps : comment tu mettrais ça en place avec nous, en vrai ?
+
 ## Lancer
 
 ```bash
